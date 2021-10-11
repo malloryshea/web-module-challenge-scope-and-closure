@@ -35,10 +35,12 @@ console.log(processFirstItem(['foo','bar'],function(str){return str+str}));
 
   2. Which of the two uses a closure? How can you tell?
   
-The first one has a closure 
+The first one has a closure. The reference from the child back to the parent shows that it has closure.
 
   3. In what scenario would the counter1 code be preferable? In what scenario would 
      counter2 be better?  
+
+
 */
 
 

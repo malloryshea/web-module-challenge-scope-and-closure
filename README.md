@@ -9,7 +9,12 @@ The module challenge is the afternoon project or assignment that students work t
 ## Objectives
 
 - Explain function scope
+
+-Function scope only exists within a fuction vs. global fuction that exists throughout the entire parent section of code.
+
 - Describe what closure is, how closure is created in a program and why it is important to understand closures in JavaScript  
+
+-Closure is when the child is called upon to refer to the parent. It is important to understand closures in order to see what is being called upon and what function is acually going to be used.
 
 ## Introduction
 

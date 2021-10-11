@@ -40,7 +40,7 @@ The first one has a closure. The reference from the child back to the parent sho
   3. In what scenario would the counter1 code be preferable? In what scenario would 
      counter2 be better?  
 
-
+-
 */
 
 
